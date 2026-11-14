@@ -33,4 +33,4 @@ Evaluated deterministically (`temperature=0.1`, `num_ctx=4096`) on `unseen_50_te
 * `final_verified_50_report.csv` — Complete 100-row telemetry log (`BEFORE_BASELINE` vs. `AFTER_GRPO_28BLK`).
 * `benchmark_telemetry.png` — Visual comparison of cumulative accuracy, per-problem latency stability, and peak RAM footprint.
 
-*(Note: Core training optimization kernels and gradient accumulation algorithms are maintained in a private research repository).*
+*(Note: Core training optimization kernels and gradient accumulation algorithms are maintained in a private research).*
